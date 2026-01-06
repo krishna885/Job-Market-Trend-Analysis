@@ -63,10 +63,6 @@ The analysis is visualized using **Power BI dashboards** with meaningful KPIs an
 - Relationship between experience and salary
 - Career growth trend analysis
 - Fresher vs experienced job comparison
-
-### 4️⃣ Top Companies Insights
-- Companies with maximum job postings
-- High-paying companies
 - Role-wise salary comparison
 
 ---
