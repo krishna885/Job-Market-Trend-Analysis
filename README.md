@@ -106,7 +106,8 @@ The analysis is visualized using **Power BI dashboards** with meaningful KPIs an
 ## 👤 Author
 **Rishi Bhardwaj**  
 Aspiring Data Analyst  
-📌 Skills: Power BI | SQL | Python | Data Analysis  
+📌 Skills: Power BI | SQL | Python | Data Analysis 
+linkedin : www.linkedin.com/in/rishi-b-93b91b296
 
 📎 *If you find this project useful, don’t forget to ⭐ the repository!*
 
